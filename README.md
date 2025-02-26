@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/fA0JygY49EWV6sGIyF/giphy.gif?cid=790b761137hzamjmwipgbum5vukr1fpvqzhmvp16qzwin4mi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
 <h1 align="center">Hey There 👋</h1>
 
 ###
@@ -6,7 +12,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Aaditya Ranjan Moitra 👋<br><br>- 🔭 I’m working on AI and machine learning projects.<br>- 📚 I'm currently learning Data Structures and Algorithms (DSA) in Java and I am passionate about learning more web dev frameworks.<br>- ⚡ In my free time, I create aviation edits, explore military aviation tech, and build AI-powered applications.  <br><br> 🚀 Tech Stack & Skills:<br>- **Languages:** Python, Java, PHP  <br>- **AI/ML:** NLP, Computer Vision, Deep Learning  <br>- **Web Development:** HTML, CSS, JavaScript  <br>- **Frameworks & Tools:** Django, Streamlit<br>- **Other Interests:** Aviation, Fighter Jets, Military Tech</p>
+<p align="left">Hi there! I'm Aaditya Ranjan Moitra 👋<br><br>- 🔭 I’m working on AI and machine learning projects.<br>- 📚 I'm currently learning Data Structures and Algorithms (DSA) in Java and I am passionate about learning more web dev frameworks.<br>- ⚡ In my free time, I create aviation edits, explore military aviation tech, and build AI-powered applications.  <br><br> 🚀 Tech Stack & Skills:<br>- Languages: Python, Java, PHP  <br>- AI/ML: NLP, Computer Vision, Deep Learning  <br>- Web Development: HTML, CSS, JavaScript  <br>- Frameworks & Tools: Django, Streamlit<br>- Other Interests: Aviation, Fighter Jets, Military Tech</p><br>
 
 ###
 
@@ -54,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
+</div><br>
 
 ###
 
@@ -65,7 +71,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AadityaSukhoi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AadityaSukhoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div><br>
 
 ###
 
@@ -83,7 +89,7 @@
   <a href="mailto:aadityaranjanmoitra@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
   </a>
-</div>
+</div><br>
 
 ###
 
@@ -94,9 +100,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/AadityaSukhoi/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AadityaSukhoi/AadityaSukhoi/output/snake.svg" alt="Snake animation" />
-
-###
