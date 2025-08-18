@@ -91,16 +91,6 @@
   </a>
 </div><br>
 
-###
-
-<h3 align="left">👀 Profile Views :</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AadityaSukhoi/count.svg?"  />
-</div>
-
 <div align = "center">
 <img src="https://aadityasukhoi.github.io/AadityaSukhoi/github-snake-dark.svg" alt="GitHub Snake Animation" height="200" />
 </div>
